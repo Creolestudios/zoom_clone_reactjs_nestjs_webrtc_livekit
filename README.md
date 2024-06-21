@@ -36,6 +36,7 @@ git clone https://github.com/Creolestudios/zoom_clone_reactjs_nestjs_webrtc_live
 Goto the directory
 
 **Step 2: Navigate to the Project Directory**
+
 cd zoom_clone_reactjs_nestjs_webrtc_livekit
 
 **Step 3: Client and Server Setup**
@@ -66,4 +67,4 @@ npm run dev
 
 ## Notes
 
-If you would like to see a visual representation of our application, check the attached video:
+[If you would like to see a visual representation of our application, check the attached video:](https://drive.google.com/file/d/1A5PvX_UMklqRoREPsKTBI0hl-E-288Hn/view?usp=drive_link)
