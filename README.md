@@ -103,7 +103,7 @@ This token can then be used by clients to authenticate and join the specified ro
 
 Ensure that you have the necessary dependencies installed and configured before running the code. This token will authenticate and authorize the user for participation in the conference call.
 
-## How use VideoConference Component
+## How to use VideoConference Component
 
 The VideoConference ready-made component is your drop-in solution for a classic video conferencing application. It provides functionality such as focusing on one participant, grid view with pagination to handle large numbers of participants, basic non-persistent chat, screen sharing, and more.
 
